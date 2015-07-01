@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: abc2a71298a7845fab1df0e751e26902
+folderAsset: yes
+timeCreated: 1435778320
+licenseType: Free
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
